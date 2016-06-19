@@ -59,6 +59,7 @@ If importing python results in a segfault, you are not using the right python fo
 
 ## License
 This repo is distributed under the MIT License.
+
 MIT License
 
 Copyright (c) 2016 Julian Gao
